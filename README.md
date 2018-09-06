@@ -8,7 +8,8 @@
 - 编译时自动注册组件(IComponent)，无需手动维护组件注册表
 - 支持动态注册/反注册组件(IDynamicComponent)
 
-
+## 使用
+[新建module指南 - 模块单独调试](/module_sample/src/main/runalone/explain.md)
 
 ## 参考文章
 - 组件化思想及源码
